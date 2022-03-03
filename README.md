@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm <a href="https://mao0824.github.io/" target="_blank">MAO GUO FENG</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/mao0824/pictureBed/master/Company/20220303132018.gif" width="60" title="Say HI"> <em><b>Spring cicadas, summer rain, tomorrow has a good weather！</b></em>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/mao0824/pictureBed/master/Company/20220303132018.gif" width="38" title="Say HI"> <em><b>Spring cicadas, summer rain, tomorrow has a good weather！</b></em>
 
 <p align="center">
   
