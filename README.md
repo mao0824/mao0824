@@ -5,26 +5,9 @@
 <p align="center">
   
   <a href="https://github.com/mao0824" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=mao0824&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=mao0824&show_icons=true&hide=prs&count_private=true&title_color=333&text_color=777" alt="Zouma's Stats" >
   </a>
   
 </p>
 
-<p align="center">
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
-  </a>
-  </p>
   
