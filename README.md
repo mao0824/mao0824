@@ -4,6 +4,10 @@
 
 [![访客](https://komarev.com/ghpvc/?username=mao0824&color=1a2236&style=flat-square&label=%E8%AE%BF%E5%AE%A2)](https://github.com/mao0824)
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6EA8FE&center=true&vCenter=true&width=620&lines=NAS+%E7%8E%A9%E5%AE%B6+%C2%B7+PT+%E7%88%B1%E5%A5%BD%E8%80%85;dockmaster+%E4%BD%9C%E8%80%85;Java+%E8%80%81%E5%85%B5+%C2%B7+%E6%96%B0%E6%99%8B+Docker+%E7%8E%A9%E5%AE%B6" alt="Typing SVG" />
+
 </div>
 
 ## 🚢 当前主推:dockmaster
@@ -31,6 +35,17 @@
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=mao0824&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao0824&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs" />
+
+## 🐍 贡献贪吃蛇
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mao0824/mao0824/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mao0824/mao0824/output/github-contribution-grid-snake.svg" alt="snake" />
+</picture>
+
+</div>
 
 ---
 
