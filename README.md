@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1220,100:3d4a70&height=150&section=header&text=Hi%2C%20I%27m%20Niven&fontSize=42&fontColor=e8ecf4&desc=NAS%20%E7%8E%A9%E5%AE%B6%20%C2%B7%20PT%20%E7%88%B1%E5%A5%BD%E8%80%85%20%C2%B7%20%E5%81%B6%E5%B0%94%E5%86%99%E7%82%B9%E5%B0%8F%E5%B7%A5%E5%85%B7&descAlign=60&descSize=18" width="100%" />
 
-[![访客](https://komarev.com/ghpvc/?username=mao0824&color=1a2236&style=flat-square&label=%E8%AE%BF%E5%AE%A2)](https://github.com/mao0824)
 
 <div align="center">
 
